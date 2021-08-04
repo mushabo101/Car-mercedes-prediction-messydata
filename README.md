@@ -1,4 +1,4 @@
-# Remedial-Modul-3
+# Mercedes CC Class price prediction
 
 Case Study: UK Used CClass Cars
 Soal : Dataset yang digunakan merupakan listing mobil Mercedec CCclass bekas yang diperjualbelikan di Britania Raya. Terdapat sekitar 4.000 mobil CClass bekas di dalam listing tersebut. kalian dapat mempelajari dataset ini dengan lebih lanjut di halaman ini.
